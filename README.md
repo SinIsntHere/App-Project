@@ -2,4 +2,4 @@
 
 ## Entity Relationship Diagram (ERD)
 
-![ERD](Project/ERD.png);
+![ERD](ERD.png);
